@@ -1,0 +1,1 @@
+# pgrm to find power range of a number

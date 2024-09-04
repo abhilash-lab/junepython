@@ -1,0 +1,4 @@
+variable=input("message") read value from console
+print()print message in console
+type(object type)
+

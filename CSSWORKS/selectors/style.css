@@ -1,0 +1,19 @@
+body{
+    background-color: aqua;
+}
+
+h1{
+    color: brown;
+    text-align: center;
+    text-decoration: underline;
+}
+
+#sec{
+    color: rgba(0, 0, 0, 0.818);
+    text-align: center;
+    text-decoration:underline;
+}
+
+#main{
+    color: coral;
+}

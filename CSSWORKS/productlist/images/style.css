@@ -1,0 +1,43 @@
+.card-group{
+    width: 80%;
+    min-height: 600px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.border{
+    border: 1px solid black;
+}
+.card{
+    width: 30%;
+    min-height: 600px;
+    padding: 10px;
+    border-radius: 10px;
+    border-style: groove;
+    background-color: rgb(220, 254, 255);
+}
+
+.card-image > img{
+    width: 100%;
+}
+
+.card-body{
+    line-height: 20px;
+    text-align: justify;
+}    
+.card-footer{
+    display: flex;
+    justify-content: space-between;
+}
+
+.card-footer{
+    color: rgb(247, 0, 49);
+    
+}
+.card-footer > button{
+    color: darkblue;
+    background-color: aquamarine
+    ;
+}

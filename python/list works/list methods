@@ -1,0 +1,8 @@
+# def append() add element end od the list
+# def insert() add element to the specific position
+# def count()  to count an element
+# def pop() remove last element and return the element or specific index position
+# def remove() to remove specific element (only the first occurence of the value)
+# def extend() add a collection of element to a list
+# def reverse() to reverese the list
+
