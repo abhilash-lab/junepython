@@ -5,3 +5,5 @@
 >git push [localrepo => renote repo]
 >git clone [remote repo(exact copy)=> localworkspace]
 >git pull [remote Repo(changes) => local workspace]
+git remote -v[remote details]
+git pull[to add remote changes to  ]
